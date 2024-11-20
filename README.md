@@ -1,4 +1,4 @@
-# Project Title
+# Project 
 
 Comparative Investigation of Factors Contributing to Suicidal Deaths in the USA and Other Nations
 
